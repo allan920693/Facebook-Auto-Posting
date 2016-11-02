@@ -1,4 +1,4 @@
-# Facebook-Auto-posting
+# Facebook-Auto-Posting
 This project shows how to make auto posts in Facebook page.
 
 We use NBA video as an example of a daily post.
